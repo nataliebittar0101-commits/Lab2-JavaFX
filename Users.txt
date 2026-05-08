@@ -1,0 +1,3 @@
+test@gmail.com Abc123!@
+natalie@gmail.com Pass123!
+wrongmail 123
